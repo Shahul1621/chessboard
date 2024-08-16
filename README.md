@@ -1,2 +1,2 @@
 # chessboard
-Deployment : https://shahul1621.github.io/chessboard/
+Deployment : https://shahul1621.github.io/chessboard/table.html
